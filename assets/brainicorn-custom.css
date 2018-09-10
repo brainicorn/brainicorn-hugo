@@ -20,7 +20,7 @@ img[src$='#center']
   padding-right: 2px;
 }
 
-footer span.share-box {
+.share-box {
   position: absolute;
   padding-top: 25px;
   padding-bottom: 25px;
