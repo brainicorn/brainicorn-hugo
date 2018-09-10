@@ -32,6 +32,9 @@ disqusShortname = "brainicorn"
 
 title = "Brainicorn"
 
+enableRobotsTXT = true
+
+enableGitInfo = true
 
 [permalinks]
 post = "/:year/:month/:day/:slug/"
