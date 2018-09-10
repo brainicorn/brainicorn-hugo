@@ -9,12 +9,7 @@ keywords = ["go", "golang", "library", "parser", "lexer"]
 topics = ["golang"]
 tags = ["go", "lexer"]
 github = "https://github.com/brainicorn/goblex"
-[menu]
-  [menu.main]
-     name = "Blog"
-     weight = 2
-     identifier = "post"
-     url = "/post/"
+
 
 +++
 
