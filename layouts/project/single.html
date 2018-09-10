@@ -1,0 +1,15 @@
+{{ partial "head" . }}
+{{ if isset .Params "github" }}
+<a href="{{ .Params.github }}" class="github-ribbon">Fork me on GitHub</a>
+{{ end }}
+<div class="container">
+  <div class="row">
+    <div class="col-sm-12">
+
+      {{ .Render "single.hat" }}
+      {{ .Render "single.content" }}
+      {{ .Render "single.boot" }}
+    </div>
+  </div>
+</div>
+{{ partial "foot" . }}

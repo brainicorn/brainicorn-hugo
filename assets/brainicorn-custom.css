@@ -1,0 +1,26 @@
+img[src$='#center']
+{
+    display: block;
+    margin: 0.0rem auto;
+}
+
+.footer {
+  position: absolute;
+  bottom: -1%;
+  width: 100%;
+  text-align: left;
+  padding-bottom: 3rem;
+}
+
+.contact_link {
+  padding-right: 6px;
+}
+
+.fa {
+  padding-right: 2px;
+}
+
+footer span.share-box {
+  position: absolute;
+  padding-top: 25px;
+}
